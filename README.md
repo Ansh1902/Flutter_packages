@@ -1,4 +1,4 @@
-# Assignment - 3 (Pub.Dev Dataset)
+# Pub.Dev Dataset
 We will use python to scrap details about packages from https://pub.dev/packages?sort=like, The output will be 
 * basic.csv
 * detailed.csv
